@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Youssif Elenbaby Portfolio",
+  "description": "Cinematic storytelling powered by creativity \u0026 AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
